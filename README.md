@@ -1,8 +1,7 @@
 # ITF20319-1_22H_Software_Engineering_og_testing
 Oblig 3 - git og continuous integration
+
 norwegian first and explanation in english under the text dump.
-
-
 Url : https://github.com/Danieljoh98/ITF20319-1_22H_Software_Engineering_og_testing
 
 Det første jeg gjorde var å logge meg in på github profilen min. For så å trykke på new Repository.
