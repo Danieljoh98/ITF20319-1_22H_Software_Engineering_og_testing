@@ -16,11 +16,10 @@ For så å trykke på go to file. for å se hver gang jeg runner det så trykka 
 
 
 testen : 
-
 Run pytest
 ============================= test session starts ==============================
 platform linux -- Python 3.10.8, pytest-7.1.3, pluggy-1.0.0
-rootdir: /home/runner/work/test22/test22
+rootdir: /home/runner/work/ITF20319-1_22H_Software_Engineering_og_testing/ITF20319-1_22H_Software_Engineering_og_testing
 collected 339 items
 
 test_main_modulet.py ................................................... [ 15%]
@@ -29,4 +28,4 @@ test_main_modulet.py ................................................... [ 15%]
 ........................................................................ [ 78%]
 ........................................................................ [100%]
 
-============================= 339 passed in 0.25s ==============================
+============================= 339 passed in 0.45s ==============================
